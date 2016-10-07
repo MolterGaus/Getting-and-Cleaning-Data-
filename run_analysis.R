@@ -1,6 +1,3 @@
-# https://github.com/pedrompsilva/getting_and_cleaning_data/blob/master/run_analysis.R
-#https://github.com/svkm/Getting-and-Cleaning-Data/blob/master/run_analysis.R
-
 #library required
 
 libray(plyr)
