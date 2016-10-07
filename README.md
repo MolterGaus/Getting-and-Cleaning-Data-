@@ -16,5 +16,5 @@ The script run_analusis do:
 *Computes col averages and groups by Subject and Activity (dropping rows without data)
 *Writes a text file (FICHERO.csv) 
 
-En el fichero Codebook se encuentra una referencia a todas las variables que contiene "FICHERO.csv"
+In the Codebook file is a reference to all the variables containing "FICHERO.csv"
 
